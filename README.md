@@ -15,3 +15,7 @@ AI-powered system to evaluate resumes against job descriptions using RAG + embed
 - FAISS
 - Gemini Embeddings
 - Gradio
+
+## 📸 Demo Output
+
+![AI Resume Screener Output](output.png)

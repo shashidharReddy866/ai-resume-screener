@@ -1,0 +1,7 @@
+pip install google-generativeai
+pip install faiss-cpu
+pip install gradio
+pip install pypdf
+pip install python-docx
+pip install python-dotenv
+pip install numpy
